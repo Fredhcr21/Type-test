@@ -1,0 +1,7 @@
+use('API-REST');
+
+
+db.posts.insertOne({
+    Image: String
+
+})

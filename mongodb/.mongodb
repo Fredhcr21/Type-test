@@ -1,0 +1,4 @@
+//THIS IS MY DATABASE
+use('API-REST');
+
+db.posts.find({});
